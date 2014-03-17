@@ -1,6 +1,10 @@
 #0x800
 
-2048 in hex.  Readme from 2048 found below.
+2048 in hex.  
+
+Play it at http://pages.cs.wisc.edu/~sohn/0x800/
+
+Readme from 2048 found below.
 
 
 
