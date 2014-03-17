@@ -1,6 +1,6 @@
 #0x800
 
-2048 converted to hex.  Old readme is below.
+2048 in hex.  Readme from 2048 found below.
 
 
 
